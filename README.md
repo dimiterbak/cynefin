@@ -8,7 +8,7 @@
 <body>
 
 <nav epub:type="toc" id="toc">
-<h3 class="page-title">Contents</h3>
+<h3 class="page-title">Introduction to Cynefin</h3>
 <ol>
 <li><a href="body.xhtml">Intro</a></li>
 <li><a href="body1.xhtml">Types of system</a></li>
